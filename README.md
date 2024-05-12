@@ -8,7 +8,7 @@ FuZFuZ es un rápido y sencillo fuzzer creado en python para descubrir posibles 
 ```
 > git clone https://github.com/R3LI4NT/FuZFuZ
 > cd FuZFuZ
-> python3 fuzfuz.py
+> python3 fuzfuz.py -h
 ```
 
 ## Uso:
