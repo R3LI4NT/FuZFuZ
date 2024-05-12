@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/R3LI4NT/FuZFuZ/main/banner/banner.png)
 
-FuZFuZ es un rápido y sencillo fuzzer creado en python para descubrir posibles directorios web.
+FuZFuZ es un rápido y sencillo fuzzer creado en python para descubrir posibles directorios web, útil para pruebas de penetración.
 
 
 #### Instalación:
