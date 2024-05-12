@@ -1,4 +1,4 @@
-![banner](https://github.com/R3LI4NT/FuZFuZ/assets/75953873/b9146d92-539e-4b1f-8fbc-6361c91813a9)
+![banner](https://raw.githubusercontent.com/R3LI4NT/FuZFuZ/main/banner/banner.png)
 
 FuZFuZ es un rápido y sencillo fuzzer creado en python para descubrir posibles directorios web.
 
