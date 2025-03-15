@@ -19,5 +19,3 @@ FuZFuZ es un sencillo fuzzer creado en python para descubrir posibles directorio
 
 ![FuZFuZ](https://github.com/R3LI4NT/FuZFuZ/assets/75953873/bc63eb27-fcda-4899-bf56-76fae2835521)
 
-
-No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo con fines educativos.
